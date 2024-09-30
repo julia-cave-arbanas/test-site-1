@@ -6,3 +6,5 @@ layout: default
 ---
 # Homepage
 This is my [first page](./page-1)
+# Post 1
+This is my [first post](./2024/09/29/first-post.html)
