@@ -21,7 +21,7 @@
 title: Julia Cave Arbanas SI 676 Blog
 email: jarbanas@umich.edu
 description: >-  # this means to ignore newlines until "baseurl:"
-  This is my very first GitHub site. It was created with much struggle and pain. So much pain that I needed the assistance of a cat
+  This is my very first GitHub site. It was created with much struggle and pain. So much pain that I needed the assistance of a cat (his name is Burton).
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://github.com/julia-cave-arbanas/test-site-1.git" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyl
